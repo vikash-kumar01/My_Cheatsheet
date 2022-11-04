@@ -95,7 +95,7 @@ for more details - https://tecadmin.net/install-oracle-java-11-on-ubuntu-16-04-x
  - sudo apt-get install docker-ce docker-ce-cli containerd.io ( to install latest version )
  - sudo docker run hello-world
 
-if you want all the things in a script use https://github.com/DeekshithSN/cheatsheet/blob/master/docker-install.sh
+if you want all the things in a script use https://github.com/vikash-kumar01/installation_scripts/blob/master/docker.sh
 
 for more details refer  https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce-1 
 
